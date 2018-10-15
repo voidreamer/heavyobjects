@@ -1,4 +1,4 @@
-# heavyobjects
+# heavy objects diagnoser
 
 installation:
 
